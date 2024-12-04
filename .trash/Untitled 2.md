@@ -1,0 +1,29 @@
+---
+topics: ["normal modes", "springs", "oscillations"]
+difficulty: "hard"
+status: "unsolved"
+---
+
+## Problem Statement
+Consider the longitudinal oscillations of the system shown below:
+
+![System of two masses connected by three springs labeled K₁, K₂, K₃]
+
+The blocks are free to slide horizontally without friction. The displacements of the blocks
+from equilibrium are both measured to the right. Block 1 has a mass of 15 grams and block 2
+a mass of 10 grams. The spring constants of the springs are $K_1$, $K_2$ and $K_3$, as shown. The
+normal modes of this system are
+
+$A_1 = \begin{pmatrix} 2 \\ 3 \end{pmatrix}$, $A_2 = \begin{pmatrix} 1 \\ -1 \end{pmatrix}$
+
+with corresponding frequencies
+
+$\omega_1 = 1$ s$^{-1}$, $\omega_2 = 2$ s$^{-1}$.
+
+a. If the system is at rest at time $t = 0$ with displacements $x_1(0) = 5$ cm, $x_2(0) = 0$, or
+
+$X(0) = \begin{pmatrix} x_1(0) \\ x_2(0) \end{pmatrix} = \begin{pmatrix} 5 \\ 0 \end{pmatrix}$ cm.
+
+Find the displacement of block 2 at time $t = \pi$ s.
+
+b. Find $K_1$, $K_2$ and $K_3$.
