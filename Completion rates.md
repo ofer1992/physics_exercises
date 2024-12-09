@@ -7,6 +7,6 @@ rows.book[0] as "Book",
     length(filter(rows, (f) => f.status = "solved")) as "Completed"
 FROM ""
 WHERE chapter AND status
+SORT book ASC
 GROUP BY chapter
-SORT chapter ASC
 ```

@@ -1,5 +1,5 @@
 ```dataview
-TABLE file.folder as "Folder", 
+TABLE book, 
 description,
 file.mtime as "Last Modified"
 FROM ""
