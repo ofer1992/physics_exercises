@@ -1,11 +1,14 @@
 ---
-description: "Calculate conductivity ratio in layered conductor"
-topics: ["conductivity", "anisotropic materials", "layered materials"]
-difficulty: "medium"
-status: "unsolved"
+description: Calculate conductivity ratio in layered conductor
+topics:
+  - conductivity
+  - anisotropic materials
+  - layered materials
+difficulty: medium
+status: in-progress
 interested: false
-book: "Electricity and Magnetism"
-chapter: "Electric currents"
+book: Electricity and Magnetism
+chapter: Electric currents
 ---
 
 ## Problem Statement
