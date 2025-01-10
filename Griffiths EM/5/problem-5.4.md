@@ -1,11 +1,14 @@
 ---
-description: "Find magnetic field for a square loop with uniform current"
-topics: ["magnetostatics", "Biot-Savart law", "current loops"]
-difficulty: "medium"
-status: "unsolved"
+description: Find magnetic field for a square loop with uniform current
+topics:
+  - magnetostatics
+  - Biot-Savart law
+  - current loops
+difficulty: medium
+status: solved
 interested: false
-book: "Introduction to Electrodynamics"
-chapter: "5 Magnetostatics"
+book: Introduction to Electrodynamics
+chapter: 5 Magnetostatics
 ---
 
 ## Problem Statement
